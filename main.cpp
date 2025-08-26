@@ -8,7 +8,7 @@ void display(){
 
     glFlush();
 }
-
+// TESTE BRUNO
 int main(int argc,char** argv){
 
     //Inicializa a lib com os argumentos recebidos pela função
